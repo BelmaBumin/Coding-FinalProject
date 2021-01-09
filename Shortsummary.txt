@@ -1,1 +1,19 @@
-ahah
+Final Project - Feride Belma Bumin
+
+In this project, data is taken from the below website;
+
+https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres/notebooks
+
+- In STATA folder, tools used for the analysis are located  inside folder.
+Code folder includes the  do files.Outputs that are derived from the do files
+ are put inside the output folder. Also, data folder contains two folder
+ inside; one for raw data and one for derived data which is created by using
+ do files.
+
+-In Python folder, there is only one jupyter notebook which includes the 
+requested data manipulations.
+
+- As the last thing, I would like to add that due to datasets I could not 
+figure out how to do reshape the data in STATA. Therefore, I applied only
+ merge.
+ 
