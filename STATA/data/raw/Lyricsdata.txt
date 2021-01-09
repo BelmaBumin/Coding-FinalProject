@@ -1,0 +1,7 @@
+
+Lyrics data is too big to upload to Github. Therefore, it can be found at 
+below link;
+
+https://www.kaggle.com/neisse/scrapped-lyrics-from-6-genres
+
+Sorry for inconvenience.
