@@ -1,0 +1,16 @@
+	(1)
+VARIABLES	songs
+	
+popularity	3.471***
+	(0.188)
+Rock	12.61***
+	(3.217)
+English	48.09***
+	(3.044)
+Constant	30.76***
+	(1.699)
+	
+Observations	2,826
+R-squared	0.221
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

@@ -1,0 +1,24 @@
+	(1)
+VARIABLES	lnsongs
+	
+lnpopularity	-0.438
+	(0)
+Rock	0.513
+	(0)
+544.songs	-0.850
+	(0)
+553.songs	-0.108
+	(0)
+563.songs	0.0497
+	(0)
+691o.songs	-
+	
+759o.songs	-
+	
+Constant	7.450
+	(0)
+	
+Observations	6
+R-squared	1.000
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

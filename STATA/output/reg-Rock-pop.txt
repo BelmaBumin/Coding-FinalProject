@@ -1,0 +1,14 @@
+	(1)
+VARIABLES	songs
+	
+Rock	9.600***
+	(2.462)
+English	41.96***
+	(2.550)
+Constant	18.14***
+	(0.983)
+	
+Observations	2,298
+R-squared	0.173
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
